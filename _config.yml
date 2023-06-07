@@ -1,6 +1,13 @@
-title: Minimal theme
+title: <p align="center"> Akshay Kadam </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a>
+  <a href="https://www.linkedin.com/akshayvmkadam">LinkedIn</a>
+  
+  <br>
+  A qualified and accomplished professional having robust technical expertise converged with leadership
+  excellence experience of 7.5 years in the software industry.<br></p>
+
+
 theme: jekyll-theme-minimal
